@@ -1,0 +1,4 @@
+10 Popescu Ion pass123456 ADMIN
+11 Gigi Becali cisco12345 SUPER_ADMIN
+12 Ronaldo Smr barcealona SIMPLE_USER
+13 Eu Derbedeu iumor ADMIN
